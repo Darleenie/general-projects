@@ -1,0 +1,2 @@
+# general-projects
+random ideas
